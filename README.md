@@ -1,2 +1,2 @@
 # django_website_demo
-practiving my django engineering
+practicing my django engineering
